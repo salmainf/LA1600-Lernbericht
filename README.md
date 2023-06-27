@@ -17,7 +17,8 @@ Was ist ein Sticky Button? Ein Sticky Button ist ein Button, welcher beim Scroll
   
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
 * Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
+![giphy](https://github.com/salmainf/LA1600-Lernbericht/assets/110892351/74a74f43-e756-42b4-9f25-8be4bfd0b718)
+
 
 ## Verifikation
 
